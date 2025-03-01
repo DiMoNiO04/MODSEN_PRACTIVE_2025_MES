@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 24px;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+.counter {
+  display: flex;
+  column-gap: 20px;
+}
